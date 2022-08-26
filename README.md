@@ -1,2 +1,2 @@
 # temp_vue2
-vue2, element-ui
+template project of vue2 and element
